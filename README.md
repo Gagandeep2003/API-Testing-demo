@@ -39,6 +39,6 @@ This project demonstrates basic **API testing** using **Postman** on a free publ
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**Gagandeep**  
 Undergraduate, B.Tech in Computer Science  
 Lovely Professional University
